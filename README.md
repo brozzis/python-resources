@@ -13,3 +13,4 @@ python-resources
 - [saas app] (https://github.com/nickjj/build-a-saas-app-with-flask)
 
 - [cookiecutter] (https://github.com/sloria/cookiecutter-flask)
+- [appfactories] (http://flask.pocoo.org/docs/1.0/patterns/appfactories/)
